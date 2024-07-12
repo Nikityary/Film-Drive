@@ -1,0 +1,16 @@
+C:\Users\Student.POLCOL\Source\Repos\FilmDrive1\Speed\obj\Debug\Speed.csproj.AssemblyReference.cache
+C:\Users\Student.POLCOL\Source\Repos\FilmDrive1\Speed\obj\Debug\Speed.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student.POLCOL\Source\Repos\FilmDrive1\Speed\obj\Debug\Speed.csproj.CoreCompileInputs.cache
+C:\Users\Student.POLCOL\Source\Repos\FilmDrive1\Speed\bin\Debug\Speed.exe.config
+C:\Users\Student.POLCOL\Source\Repos\FilmDrive1\Speed\bin\Debug\Speed.exe
+C:\Users\Student.POLCOL\Source\Repos\FilmDrive1\Speed\bin\Debug\Speed.pdb
+C:\Users\Student.POLCOL\Source\Repos\FilmDrive1\Speed\obj\Debug\Speed.exe
+C:\Users\Student.POLCOL\Source\Repos\FilmDrive1\Speed\obj\Debug\Speed.pdb
+C:\Users\Nikityara\Desktop\Флешка\ГлПапка\Работы C#\FilmDrive1\Speed\bin\Debug\Speed.exe.config
+C:\Users\Nikityara\Desktop\Флешка\ГлПапка\Работы C#\FilmDrive1\Speed\bin\Debug\Speed.exe
+C:\Users\Nikityara\Desktop\Флешка\ГлПапка\Работы C#\FilmDrive1\Speed\bin\Debug\Speed.pdb
+C:\Users\Nikityara\Desktop\Флешка\ГлПапка\Работы C#\FilmDrive1\Speed\obj\Debug\Speed.csproj.AssemblyReference.cache
+C:\Users\Nikityara\Desktop\Флешка\ГлПапка\Работы C#\FilmDrive1\Speed\obj\Debug\Speed.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikityara\Desktop\Флешка\ГлПапка\Работы C#\FilmDrive1\Speed\obj\Debug\Speed.csproj.CoreCompileInputs.cache
+C:\Users\Nikityara\Desktop\Флешка\ГлПапка\Работы C#\FilmDrive1\Speed\obj\Debug\Speed.exe
+C:\Users\Nikityara\Desktop\Флешка\ГлПапка\Работы C#\FilmDrive1\Speed\obj\Debug\Speed.pdb
